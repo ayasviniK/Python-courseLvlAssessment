@@ -1,6 +1,6 @@
 # Simple Python Calculator
 
-This is a basic interactive calculator written in Python 🐍 as part of a course-level assessment for an online learning platform.
+This is a basic interactive calculator written in Python as part of a course-level assessment for an online learning platform.
 
 It supports standard arithmetic operations and handles user inputs via terminal, with additional features to reset or exit the program gracefully.
 

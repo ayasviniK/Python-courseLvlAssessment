@@ -26,4 +26,4 @@ It supports standard arithmetic operations and handles user inputs via terminal,
 3. Run the script using:
 
 ```bash
-python calculator.py
+python calc-stage1.py
